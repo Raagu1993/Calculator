@@ -1,0 +1,44 @@
+.display 
+{
+    background-color:#fff;
+    margin-top: 30px;
+    margin-left : 20px;
+    margin-right : 200px;
+    border : 2px solid black;
+    width : 360px;
+    height : 40px;
+    font-size: 30px;
+       
+}
+.displayLine1 
+{
+    float: left;
+    margin-top: 30px;
+    margin-left : 20px;
+    border : 2px solid black;
+    width : 84px;
+    height : 84px;
+    font-size:40px;
+    text-align: center;
+    vertical-align: center;
+    
+       
+}
+.displayLine2
+{
+    float: left;
+    margin-top: 1px;
+    margin-left : 20px;
+    border : 2px solid black;
+    width : 84px;
+    height : 84px;
+    font-size:40px;
+    text-align: center;
+    vertical-align: text-bottom;
+            
+}
+.button
+{
+    font-size:40px; width:82px; height:82px
+}
+
