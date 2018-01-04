@@ -24,6 +24,20 @@
     
        
 }
+.displayLine1v1 
+{
+    float: left;
+    margin-top: 30px;
+    margin-left : 20px;
+    border : 2px solid black;
+    width : 84px;
+    height : 84px;
+    font-size:40px;
+    text-align: center;
+    vertical-align: center;
+    margin-left:2px;  
+       
+}
 .displayLine2
 {
     float: left;
@@ -36,6 +50,19 @@
     text-align: center;
     vertical-align: text-bottom;
             
+}
+.displayLine2v2
+{
+    float: left;
+    margin-top: 1px;
+    margin-left : 2px;
+    border : 2px solid black;
+    width : 84px;
+    height : 84px;
+    font-size:40px;
+    text-align: center;
+    vertical-align: text-bottom;
+   
 }
 .button
 {
